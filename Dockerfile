@@ -14,9 +14,9 @@ ENV TIMEZONE=America/Recife
 ENV REDIRECT_TO_HTTPS=no
 ENV AUTOCERT=no
 
-COPY index.html            /config/www/index.html
-COPY script.js             /config/www/script.js
-COPY styles.css            /config/www/styles.css
-COPY formats.json          /config/www/formats.json
+COPY src/index.html            /config/www/index.html
+COPY src/script.js             /config/www/script.js
+COPY src/styles.css            /config/www/styles.css
+COPY src/formats.json          /config/www/formats.json
 
 EXPOSE 80 443
