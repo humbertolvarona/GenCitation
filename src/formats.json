@@ -1,0 +1,74 @@
+{
+  "formats": [
+    {
+      "id": "apa",
+      "name": "APA (American Psychological Association)",
+      "cslId": "apa",
+      "description": "Widely used format in social sciences",
+      "example": "Author, A. A., Author, B. B., & Author, C. C. (Year). Title of the article. Name of the Journal, volume(number), pages. https://doi.org/xx.xxxx/xxxxx "
+    },
+    {
+      "id": "mla",
+      "name": "MLA (Modern Language Association)",
+      "cslId": "modern-language-association",
+      "description": "Commonly used in humanities, especially literature and linguistics",
+      "example": "Lastname, Firstname. \"Title of the Article.\" Name of the Journal, vol. X, no. X, Year, pp. XX-XX. DOI or URL."
+    },
+    {
+      "id": "chicago-author-date",
+      "name": "Chicago Manual of Style (Author-Date)",
+      "cslId": "chicago-author-date",
+      "description": "Used in history and some social sciences",
+      "example": "Lastname, Firstname. Year. \"Title of the Article.\" Name of the Journal volume(number): pages. https://doi.org/xx.xxxx/xxxxx "
+    },
+    {
+      "id": "harvard",
+      "name": "Harvard (Cite Them Right)",
+      "cslId": "harvard-cite-them-right",
+      "description": "Popular in British and Australian universities",
+      "example": "Lastname, Initial. (Year) 'Title of the article', Name of the Journal, volume(number), pages. doi: xx.xxxx/xxxxx"
+    },
+    {
+      "id": "ieee",
+      "name": "IEEE (Institute of Electrical and Electronics Engineers)",
+      "cslId": "ieee",
+      "description": "Standard in engineering and computer sciences",
+      "example": "[1] A. Author, B. Author and C. Author, \"Title of the article\", Name of the Journal, vol. X, no. X, pp. XX-XX, Month Year, doi: xx.xxxx/xxxxx"
+    },
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "cslId": "vancouver",
+      "description": "Used in medicine and health sciences",
+      "example": "Author AA, Author BB, Author CC. Title of the article. Name of the journal. Year;volume(number):pages. doi: xx.xxxx/xxxxx"
+    },
+    {
+      "id": "abnt-general",
+      "name": "ABNT NBR 6023 (Brazilian Association of Technical Standards)",
+      "cslId": "associacao-brasileira-de-normas-tecnicas",
+      "description": "General ABNT format",
+      "example": "LASTNAME, Firstname; LASTNAME, Firstname. Title of the article. Name of the journal, City, v. X, n. X, p. XX-XX, month. year."
+    },
+    {
+      "id": "turabian",
+      "name": "Turabian (Full Note, 8th ed.)",
+      "cslId": "turabian-fullnote-bibliography-8th-edition",
+      "description": "Adaptation of Chicago style for college students",
+      "example": "Firstname Lastname, \"Title of the Article,\" Name of the Journal volume, no. number (Year): pages. https://doi.org/xx.xxxx/xxxxx "
+    },
+    {
+      "id": "iso690",
+      "name": "ISO 690 (Author-Date, English)",
+      "cslId": "iso690-author-date-en",
+      "description": "International standard for bibliographic references",
+      "example": "LASTNAME, Firstname, LASTNAME, Firstname and LASTNAME, Firstname, year. Title of the article. Name of the Journal. Vol. X, no. X, pp. XX-XX. https://doi.org/xx.xxxx/xxxxx "
+    },
+    {
+      "id": "ama",
+      "name": "AMA (American Medical Association)",
+      "cslId": "american-medical-association",
+      "description": "Used in medical publications",
+      "example": "Lastname AA, Lastname BB, Lastname CC. Title of the article. Name of the Journal. Year;volume(number):pages. doi:xx.xxxx/xxxxx"
+    }
+  ]
+}
