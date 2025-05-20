@@ -1,0 +1,12 @@
+version: "3"
+services:
+  gencitation:
+    image: humbertovarona/gencitation
+    container_name: test_gencitation
+    ports:
+      - "8443:443"
+    environment:
+      - TIMEZONE=America/Recife
+      - REDIRECT_TO_HTTPS=yes
+      - AUTOCERT=yes
+    restart: unless-stopped
