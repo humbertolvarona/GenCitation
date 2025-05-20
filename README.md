@@ -63,7 +63,7 @@ docker run -d \
 To simplify deployment, create a `docker-compose.yml` with:
 
 ```yaml
-version: "3.8"
+version: "3"
 services:
   gencitation:
     image: humbertovarona/gencitation
