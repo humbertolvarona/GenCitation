@@ -4,6 +4,10 @@ Docker container to deploy the “DOI Citation Generator” web application, all
 [![Alpine](https://img.shields.io/badge/Alpine-3.21-blue.svg)](https://alpinelinux.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-1.26.3-orange)](https://nginx.org/)
 
+## Website available at
+
+[https://reff-hlvarona.pages.dev](https://reff-hlvarona.pages.dev)
+
 ---
 
 **Detailed feature description:**
