@@ -3,7 +3,7 @@ Docker container to deploy the “DOI Citation Generator” web application, all
 [![Docker](https://img.shields.io/badge/Docker-ready-blue)](https://www.docker.com/)
 [![Alpine](https://img.shields.io/badge/Alpine-3.21-blue.svg)](https://alpinelinux.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-1.26.3-orange)](https://nginx.org/)
-![Docker badge](https://img.shields.io/badge/Docker-Ready-007ec6?style=flat-square&logo=github)
+
 
 ## Website available at
 
